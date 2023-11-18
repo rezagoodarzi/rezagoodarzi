@@ -1,6 +1,8 @@
 <h3 align='center'>
 Excited to encounter you 
-
+>ح
+  <p align='center'>
+    <a [![GitHub Streak](https://streak-stats.demolab.com/?user=rezagoodarzi)](https://git.io/streak-stats)
 <!-- Social media section -->
 <p align='center'>
   <a href='mailto:rezagoodarzi.g@gmail.com' title='Gmail'>
@@ -64,7 +66,7 @@ Excited to encounter you
 
 ## <img width='22' height='22' src='https://img.icons8.com/dotty/80/41b883/project-management.png' alt='project-management'/> Projects
 
-### Natural Language Processing, Machine Learning and Artificial Intelligence
+### Machine Learning and Artificial Intelligence
 <p align='center'>
     <a href='https://github.com/rezagoodarzi/Decision-tree-from-scratch'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Decision-tree-from-scratch&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
