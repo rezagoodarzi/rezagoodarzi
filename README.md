@@ -75,6 +75,10 @@ Excited to encounter you
     <a href='https://github.com/rezagoodarzi/Genetic_programming'>
               <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Genetic_programming&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+      <a href='https://github.com/rezagoodarzi/Support_Vector_machine'>
+              <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Support_Vector_machine&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+  
 </p>  
 
 ### Algorithms, Data Structures
