@@ -80,6 +80,12 @@ Excited to encounter you
     </a>
   
 </p>  
+### operating system
+<p align='center'>
+  <a href='https://github.com/rezagoodarzi/xv6-public'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=xv6-public&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
 
 ### Algorithms, Data Structures
 
