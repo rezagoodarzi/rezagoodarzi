@@ -91,6 +91,12 @@ Excited to encounter you
   <a href='https://github.com/rezagoodarzi/xv6-public'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=xv6-public&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+  <a href='https://github.com/rezagoodarzi/simple_operating_system_code'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=simple_operating_system_code&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+  <a href='https://github.com/rezagoodarzi/Simple_Shell_construction'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Simple_Shell_construction&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
 </p>
 
 ### Algorithms, Data Structures
