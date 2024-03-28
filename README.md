@@ -81,6 +81,9 @@ Excited to encounter you
        <a href='https://github.com/rezagoodarzi/QLearning_Cliff_walking'>
               <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=QLearning_Cliff_walking&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+      <a href='https://github.com/rezagoodarzi/Othello_using_minimax'>
+              <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Othello_using_minimax&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
 </p>  
 
 ### operating system
