@@ -112,6 +112,8 @@ Excited to encounter you
   <a href='https://github.com/rezagoodarzi/Fun'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Fun&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+  <a href='https://github.com/rezagoodarzi/Brainfuck_Compiler_Optimizer'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Brainfuck_Compiler_Optimizer&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
 </p>
 
 ### HappyEnding
