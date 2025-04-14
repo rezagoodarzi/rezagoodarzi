@@ -71,6 +71,9 @@ Excited to encounter you
 
 ### Machine Learning and Artificial Intelligence
 <p align='center'>
+    <a href='https://github.com/rezagoodarzi/Trading_bot'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Trading_bot&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
     <a href='https://github.com/rezagoodarzi/YOLOv8-DeepSORT-Object-Tracking'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=YOLOv8-DeepSORT-Object-Tracking&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
