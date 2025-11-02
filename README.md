@@ -10,7 +10,7 @@ Excited to encounter you
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-  <a href='https://www.linkedin.com/in/reza-goodarzi-3141aa271/' title='LinkedIn'>
+  <a href='https://www.linkedin.com/in/reza-goudarzi-b534b3389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' title='LinkedIn'>
     <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/linkedin.png' alt='linkedin'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
